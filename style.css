@@ -1,0 +1,14 @@
+body, html 
+  { 
+    height: 100%;
+  } 
+body 
+ {
+   background-color: rgb(153, 119, 185);
+ } 
+ a
+ {
+    font-size: 100px;
+    color: #ffea00;
+ }
+
